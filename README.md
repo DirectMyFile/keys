@@ -1,7 +1,7 @@
 # DirectCode Public Keys
 
 
-## User SSH Keys
+## Owner SSH Keys
 
 #### kaendfinger
 
